@@ -1,0 +1,30 @@
+[submodule "Interpolator"]
+	path = Interpolator
+	url = https://github.com/symbiote-h2020/Interpolator.git
+[submodule "DomainSpecificInterfaceSMEUR"]
+	path = DomainSpecificInterfaceSMEUR
+	url = https://github.com/symbiote-h2020/DomainSpecificInterfaceSMEUR.git
+[submodule "EnablerLogicGreenRouteController"]
+	path = EnablerLogicGreenRouteController
+	url = https://github.com/symbiote-h2020/EnablerLogicGreenRouteController.git
+[submodule "EnablerLogicInterpolator"]
+	path = EnablerLogicInterpolator
+	url = https://github.com/symbiote-h2020/EnablerLogicInterpolator.git
+[submodule "EnablerLogicPoISearch"]
+	path = EnablerLogicPoISearch
+	url = https://github.com/symbiote-h2020/EnablerLogicPoISearch.git
+[submodule "EnablerResourceManager"]
+	path = EnablerResourceManager
+	url = https://github.com/symbiote-h2020/EnablerResourceManager.git
+[submodule "EnablerPlatformProxy"]
+	path = EnablerPlatformProxy
+	url = https://github.com/symbiote-h2020/EnablerPlatformProxy.git
+[submodule "RegistrationHandler"]
+	path = RegistrationHandler
+	url = https://github.com/symbiote-h2020/RegistrationHandler.git
+[submodule "AuthenticationAuthorizationManager"]
+	path = AuthenticationAuthorizationManager
+	url = https://github.com/symbiote-h2020/AuthenticationAuthorizationManager.git
+[submodule "Monitoring"]
+	path = Monitoring
+	url = https://github.com/symbiote-h2020/Monitoring.git
